@@ -1,0 +1,12 @@
+{
+  "urlFotoVeiculo": "https://suapeenergia.com.br/app/img/",
+  "urlApp": "https://suapeenergia.com.br/app/",
+  "urlAppReact": "https://suapeenergia.com.br/app/react",
+
+  "apiLogar": "https://suapeenergia.com.br/app/react/logar.php",
+  "apiListar": "https://suapeenergia.com.br/app/react/listar.php",
+  "apiListarHistorico": "https://suapeenergia.com.br/app/react/listarHistorico.php",
+  "apiListarReservados": "https://suapeenergia.com.br/app/react/listarReservados.php",
+  "apiReservarVeiculo": "https://suapeenergia.com.br/app/react/reservarVeiculo.php",
+  "apiDevolverVeiculo": "https://suapeenergia.com.br/app/react/devolverVeiculo.php"
+}

@@ -1,0 +1,12 @@
+{
+  "urlFotoVeiculo": "http://localhost/app/img/",
+  "urlApp": "http://localhost/app/",
+  "urlAppReact": "http://localhost/app/react",
+
+  "apiLogar": "http://localhost/app/react/logar.php",
+  "apiListar": "http://localhost/app/react/listar.php",
+  "apiListarHistorico": "http://localhost/app/react/listarHistorico.php",
+  "apiListarReservados": "http://localhost/app/react/listarReservados.php",
+  "apiReservarVeiculo": "http://localhost/app/react/reservarVeiculo.php",
+  "apiDevolverVeiculo": "http://localhost/app/react/devolverVeiculo.php"
+}
