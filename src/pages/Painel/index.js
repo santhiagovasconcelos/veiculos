@@ -38,6 +38,9 @@ export default function Painel({route}) {
         listarDados();
         listarDadosHistorico();
         listarDadosReservados();
+		
+		//teste de alteração para git
+		
 
         //Codigo do return to login abaixo
         const backAction = () => {
